@@ -1,3 +1,34 @@
+# Project Summary
+
+**Task-App ReactJs Project**: This project shows how to make a graphical user interface using component arrangements in reactJs
+
+# Project Objectives
+
+The project follows **three learning objectives** :
+
+1. How to create functional components in a web application
+2. How to communicate data and functions between components
+3. How to create components array
+ 
+# Requirements
+
+Have knowledge of Javascript, Html and CSS
+
+# Technical Requirements
+
+- Node Js
+- ReactJs Installed
+
+# Preview
+
+### Initial Main Screen 
+
+![image](pantlla1.png)
+
+### Task List Screen
+![image](pantlla2.png)
+
+***
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
